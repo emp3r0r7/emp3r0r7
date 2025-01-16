@@ -1,6 +1,7 @@
 # Welcome! 👋
 
 Hi, I'm a passionate developer with experience in programming, security, and PC hardware.
+I'm also a licensed HAM Radio operator.
 
 ---
 
