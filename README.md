@@ -42,6 +42,3 @@ I'm also a licensed HAM Radio operator.
 - Golang
 
 ---
-
-## 📫 Get in touch:
-- Email: emp3r0r7_chris@proton.me
